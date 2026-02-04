@@ -1,7 +1,8 @@
 This project contain my python programs. Through which I completed my full python basic to Advance course.
 This contain :
-What is Programming?
-1. Features of Python. 🐍
+
+1. What is Programming?
+2. Features of Python. 🐍
 3. Python Variables & Fundamentals
 4. Data Types & Operations in python 
 5. Conditional Statements, List, Tuples, Dictionary & Sets
